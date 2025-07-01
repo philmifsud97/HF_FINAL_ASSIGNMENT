@@ -1,0 +1,6 @@
+.venv
+.env
+utils/
+testing.ipynb
+*.pyc
+.cursorignore

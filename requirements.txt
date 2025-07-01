@@ -1,2 +1,16 @@
 gradio
 requests
+smolagents
+wikipedia
+smolagents[LiteLLM]
+ipywidgets
+duckduckgo-search
+python-chess
+openpyxl
+openai-whisper
+markdownify
+requests
+librosa
+numpy<2.0.0
+numba
+gradio[oauth]
